@@ -1,5 +1,5 @@
     # REMEMBER: CHANGE PROJECT NAME TO MATCH PROJECT NAME
-    project('com.github.yourusername.yourrepositoryname', 'vala', 'c')
+    project('com.github.Alterae.gtk-app-template', 'vala', 'c')
 
     # Create a new executable, list the files we want to compile, list the dependencies we need, and install
     executable(
