@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2019 yourname <your@email.com> -->
+<!-- REMEMBER: CHANGE FILENAME TO MATCH PROJECT NAME -->
+<component type="desktop">
+    <!-- REMEMBER: CHANGE ID TO MATCH PROJECT NAME -->
+    <id>com.github.Alterae.gtk-app-template</id>
+    <metadata_license>CC0</metadata_license>
+    <name>GTK+ App Template</name>
+    <summary>Template for Vala/GTK Apps</summary>
+    <description>
+        <p>This app does nothing.  It is simply a boilerplate template to save me time from having to write all the boilerplate from scratch every single time.</p>
+    </description>
+</component>
