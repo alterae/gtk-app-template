@@ -1,0 +1,12 @@
+[Desktop Entry]
+# REMEMBER: CHANGE FILENAME TO MATCH PROJECT NAME
+Name=Gtk+ App Template
+GenericName=Template Application
+Comment=Template for Linux apps using GTK and Vala
+Categories=Utility;
+# REMEMBER: CHANGE EXEC TO MATCH PROJECT NAME
+Exec=com.github.Alterae.gtk-app-template
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=GTK;Template;Boilerplate;Example;
