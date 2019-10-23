@@ -1,0 +1,3 @@
+src/Application.vala
+data/com.github.Alterae.gtk-app-template.desktop.in
+data/com.github.Alterae.gtk-app-template.appdata.xml.in
