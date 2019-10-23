@@ -13,5 +13,6 @@ Feel free to use, as per the terms specified in the license.
 - meson.build
 - debian/changelog
 - debian/control
+- debian/copyright
 
 **REMEMBER:** Update translations on actual build.
