@@ -11,5 +11,7 @@ Feel free to use, as per the terms specified in the license.
 - po/*
 - src/Application.vala
 - meson.build
+- debian/changelog
+- debian/control
 
 **REMEMBER:** Update translations on actual build.
