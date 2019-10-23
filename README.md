@@ -7,7 +7,7 @@ This app won't actually do anything at all, because that's not the point.  The p
 Feel free to use, as per the terms specified in the license.
 
 **REMEMBER:** Change all instances of the project name to match the actual project name.  You'll find such things in:
-- Data/*
+- data/*
 - build/.pot
 - src/Application.vala
 - meson.build
