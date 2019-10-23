@@ -8,6 +8,8 @@ Feel free to use, as per the terms specified in the license.
 
 **REMEMBER:** Change all instances of the project name to match the actual project name.  You'll find such things in:
 - data/*
-- build/.pot
+- po/*
 - src/Application.vala
 - meson.build
+
+**REMEMBER:** Update translations on actual build.
