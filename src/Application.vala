@@ -1,4 +1,5 @@
-// Basic GTK+ application template to save myself the work of having to do this over and over.  Replace this comment with an app description or some shit.
+// Basic GTK+ application template to save myself the work of having to do this over and over.
+// Replace this comment with an app description or something.
 
 public class MyApp : Gtk.Application {
     public MyApp () {
