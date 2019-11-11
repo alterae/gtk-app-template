@@ -1,6 +1,8 @@
 # GTK+ Application Template
 **Description:** Template for Linux applications using GTK+, written in Vala for Elementary OS.
 
+![image](https://github.com/elementary/icons/blob/master/apps/128/application-default-icon.svg)
+
 **Goal:** Reduce workload on future projects by providing a solid boilerplate from which to build apps.
 This app won't actually do anything at all, because that's not the point.  The point is just to provide a nice little template.
 
@@ -11,8 +13,6 @@ Feel free to use, as per the terms specified in the license.
 - po/*
 - src/Application.vala
 - meson.build
-- debian/changelog
-- debian/control
-- debian/copyright
+- debian/changelog, control, copyright
 
 **REMEMBER:** Update translations on actual build.
