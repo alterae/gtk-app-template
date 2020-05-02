@@ -18,7 +18,7 @@ public class MyApp : Gtk.Application {
         main_window.default_width = 300;
         main_window.title = _("Window Title");
 
-        // Add window contents here.  Placeholder image included (at least on elementaryOS).
+        // Add window contents here.  Placeholder image included (at least on elementaryOS, and also probably on other distros but I have not tested).
         var icon = new Gtk.Image ();
         icon.gicon = new ThemedIcon ("application-default-icon");
         icon.pixel_size = 128;
