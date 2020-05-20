@@ -1,6 +1,8 @@
 // Basic GTK+ application template to save myself the work of having to do this over and over.
 // Replace this comment with an app description or something.
 
+// TODO: #1 Make an XML version.
+
 public class MyApp : Gtk.Application {
     public MyApp () {
         // Define the application ID and flags.
